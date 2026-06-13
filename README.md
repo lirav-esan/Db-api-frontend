@@ -1,5 +1,7 @@
 # Shopping App (shopping-front-project)
 
+tarea moviles
+
 ## Install the dependencies
 
 ```bash
