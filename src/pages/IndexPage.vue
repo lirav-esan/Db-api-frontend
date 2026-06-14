@@ -1,17 +1,18 @@
 <template>
-  <q-page class="flex flex-center">
-    <div class="column items-center">
-      <img
-        alt="Quasar logo"
-        src="~@/assets/quasar-logo-vertical.svg"
-        style="width: 200px; height: 200px"
-      />
-
-      <q-btn class="q-mt-md" color="primary" to="/second" label="Go to Second Page" no-caps />
+  <q-page class="q-pa-md">
+    <div class="row items-start" style="gap:20px;">
+      <div style="flex:1">
+        <h2>Dragon Ball Characters</h2>
+        <CharacterList />
+      </div>
     </div>
   </q-page>
 </template>
 
 <script setup>
-//
+import CharacterList from '@/components/dragonball/CharacterList.vue'
 </script>
+
+<style scoped>
+h2{ margin:0 0 8px }
+</style>
