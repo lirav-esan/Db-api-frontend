@@ -1,6 +1,16 @@
-# Shopping App (shopping-front-project)
+# Api de DBZ
 
-tarea moviles
+tarea moviles 
+
+General
+
+<img width="50%" height="935" alt="imagen" src="https://github.com/user-attachments/assets/f266b1f7-86cf-4529-9352-6bc63eb23382" />
+
+Busqueda, ejemplo con input "b"
+
+<img width="50%" height="887" alt="imagen" src="https://github.com/user-attachments/assets/533270ce-fd83-4035-97cd-a31be2ce6559" />
+
+
 
 ## Install the dependencies
 
